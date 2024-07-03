@@ -1,4 +1,4 @@
-implemented a comprehensive flight prediction system. Here’s a summary of I am doing  accomplished:
+implemented a comprehensive flight prediction system. Here’s a summary of I am doing :
 
 Data Collection and Cleaning: Loaded and cleaned the data, and handled missing values.
 
